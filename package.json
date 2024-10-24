@@ -23,7 +23,7 @@
     "morgan": "^1.10.0",
     "prettier": "^1.19.1",
     "prettier-eslint": "^8.8.2",
-    "vue": "^2.7.16",
+    "vue": "^3.0.0",
     "vue-d3-network": "^0.1.28",
     "vue-router": "^3.6.5",
     "vuetify": "^1.5.24"
