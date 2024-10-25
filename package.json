@@ -18,7 +18,7 @@
     "axios": "^0.21.4",
     "d3-force": "^3.0.0",
     "express": "^4.19.2",
-    "http-proxy-middleware": "^0.19.2",
+    "http-proxy-middleware": "^3.0.3",
     "material-design-icons-iconfont": "^3.0.3",
     "morgan": "^1.10.0",
     "prettier": "^1.19.1",
@@ -83,7 +83,7 @@
     "vue-template-compiler": "^2.7.16",
     "webpack": "^3.12.0",
     "webpack-bundle-analyzer": "^3.9.0",
-    "webpack-dev-server": "^2.11.5",
+    "webpack-dev-server": "^5.1.0",
     "webpack-merge": "^4.2.2"
   },
   "engines": {
